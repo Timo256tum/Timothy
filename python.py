@@ -6,33 +6,33 @@ def get_trigger_description():
 
 def check_trigger(trigger):
     # Determines if the trigger is activated and returns a boolean value.
-    # Implementation logic here
+    # Implement logic here
 
 def handle_triggered_episode():
     # Handles the activated trigger episode.
-    # Implementation logic here
+    # Implement logic here
     
     #Symptom_managment 
     def get_symptoms():
     # Retrieves and returns a list of symptoms from the user.
-    symptoms = input("Please enter your symptoms (separated by commas): ").split(",")
+    symptoms = input("Please enter your symptoms: ").
     return symptoms
 
 def measure_symptom_severity(symptom):
     # Measures the severity of a symptom and returns an integer value.
-    # Implementation logic here
+    # Implement logic here
 
-def choose_coping_strategy(symptom, severity):
+def choose_coping_strategy(symptom and severity):
     # Helps the user choose a coping strategy based on the symptom and severity.
-    # Implementation logic here
+    # Implement logic here
 
 
 #support_system
-def organize_support_group():
+def organize_support_group:
     # Organizes and schedules support group meetings.
-    # Implementation logic here
+    # Implement logic here
 
 def split_support_group(support_group):
     # Splits a large support group into smaller groups if necessary.
-    # Implementation logic here
+    # Implement logic here
 
